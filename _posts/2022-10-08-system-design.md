@@ -1,9 +1,9 @@
 ---
 title: System Design Course
 author: Samir Paul
-date: 2025-10-08 11:33:00 +0800
-categories: [system-design]
-tags: [system-design]
+date: 2022-10-08 11:33:00 +0800
+categories: [systemdesign]
+tags: [systemdesign]
 math: true
 mermaid: true
 image:

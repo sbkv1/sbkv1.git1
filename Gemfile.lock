@@ -103,7 +103,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  gem install bundler -v "~>1.0"
   html-proofer (~> 3.18)
   jekyll-theme-chirpy (~> 5.3, >= 5.3.0)
   tzinfo (~> 1.2)
@@ -111,8 +110,5 @@ DEPENDENCIES
   wdm (~> 0.1.1)
   webrick (~> 1.7)
 
-RUBY VERSION
-   ruby 2.3.6p384  
 BUNDLED WITH
-   1.17.3
-
+   2.3.21

@@ -7,10 +7,10 @@ tags: [systemdesign]
 math: true
 mermaid: true
 image:
-  path: https://samirpaulb.github.io/assets/Getting-Started-with-System-Design-samirpaulb-assets.png
+  path: /commons/devices-mockup.png
   width: 800
   height: 500
-  alt: System Design Course
+  alt: System Design Course.
 ---
 
 

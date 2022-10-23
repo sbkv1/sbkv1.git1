@@ -44,9 +44,6 @@ meta: Powered by :PLATFORM with :THEME theme.
 not_found:
   statment: Entschuldigung, dieser Link verweist auf keine vorhandene Ressource.
 
-notification:
-  update_found: Eine neue Version ist verfügbar.
-  update: Neue Version
 
 # ----- Posts related labels -----
 

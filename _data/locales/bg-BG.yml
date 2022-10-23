@@ -45,9 +45,6 @@ meta: Създадено чрез :PLATFORM и :THEME тема.
 not_found:
   statment: Съжалявам, но този на този URL адрес няма налично съдържание.
 
-notification:
-  update_found: Налична е нова версия на съдържанието.
-  update: Обнови
 
 # ----- Posts related labels -----
 
